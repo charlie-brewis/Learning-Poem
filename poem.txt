@@ -1,4 +1,5 @@
 Git Poem:
 I am learning git
 I think I'm getting it
+Just a little bit.
 No wait, this is shit.
